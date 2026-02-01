@@ -1,3 +1,6 @@
+/*
+    Program to Print Integer Numbers Entered by the User
+*/
 #include <iostream>
 using namespace std;
 
